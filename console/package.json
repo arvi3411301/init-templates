@@ -66,7 +66,7 @@
     "inflection": "^1.12.0",
     "invariant": "^2.2.0",
     "isomorphic-fetch": "^2.2.1",
-    "jsonwebtoken": "^8.5.0",
+    "jsonwebtoken": "^9.0.0",
     "less": "^3.7.1",
     "lru-memoize": "^1.0.0",
     "map-props": "^1.0.0",
